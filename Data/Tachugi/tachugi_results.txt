@@ -1,0 +1,10 @@
+=== current instance: MK08 ===
+1 mean: 527.05	avg_time: 18.27	variance: 23.05
+2 mean: 526.95	avg_time: 23.93	variance: 52.75
+3 mean: 524.75	avg_time: 38.81	variance: 9.19
+4 mean: 524.60	avg_time: 38.07	variance: 7.84
+5 mean: 523.00	avg_time: 41.12	variance: 0.00
+6 mean: 529.80	avg_time: 37.91	variance: 78.86
+7 mean: 523.10	avg_time: 48.71	variance: 0.09
+8 mean: 527.35	avg_time: 37.68	variance: 47.43
+9 mean: 525.90	avg_time: 38.09	variance: 27.19
