@@ -1,0 +1,21 @@
+=== current instance: MK01 ===
+1 mean: 42.00	avg_time: 12.33	variance: 0.00
+2 mean: 41.90	avg_time: 14.28	variance: 0.09
+3 mean: 41.85	avg_time: 20.74	variance: 0.13
+4 mean: 41.85	avg_time: 14.89	variance: 0.13
+5 mean: 40.70	avg_time: 17.66	variance: 0.71
+6 mean: 41.80	avg_time: 10.52	variance: 0.16
+7 mean: 41.25	avg_time: 27.25	variance: 0.89
+8 mean: 41.40	avg_time: 16.07	variance: 0.74
+9 mean: 40.70	avg_time: 26.92	variance: 0.41
+
+=== current instance: MK05 ===
+1 mean: 179.25	avg_time: 17.03	variance: 2.39
+2 mean: 179.00	avg_time: 24.01	variance: 1.30
+3 mean: 177.80	avg_time: 31.49	variance: 1.06
+4 mean: 179.35	avg_time: 22.81	variance: 1.73
+5 mean: 174.35	avg_time: 27.92	variance: 2.93
+6 mean: 179.25	avg_time: 14.93	variance: 1.69
+7 mean: 174.25	avg_time: 47.83	variance: 2.99
+8 mean: 177.40	avg_time: 23.77	variance: 1.54
+9 mean: 174.40	avg_time: 30.85	variance: 7.14
