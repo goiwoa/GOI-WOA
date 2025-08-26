@@ -68,7 +68,6 @@ if __name__ == '__main__':
     n, J, P = encode('datasets/MK01.fjs')
     # n, J, P = encode('datasets/MK08.fjs')
     whales, best_whales = initial(n, J, P, 100), Best_Whales(20)
-    # whales = [np.array(w, dtype=int) for w in whales]
 
     fitness = [calculate_fitness(n, J, P, s) for s in whales]
     sorted_pairs = sorted(zip(fitness, whales), key=lambda x: x[0])
@@ -82,4 +81,5 @@ if __name__ == '__main__':
     b_t, history = decode(n, J, P, b_w)[0], [Cmax] + c_h
     print(f'time={time() - start}\n{history}')
     # drawGantt(b_t)
+
 
