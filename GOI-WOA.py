@@ -63,7 +63,7 @@ def WOA(J, P, n, whales, best_whales, max_iter=200, k=2):
 
 
 if __name__ == '__main__':
-    pop_size, max_iter, elite_capcity = input("please input pop_size, max_iter and elite_capcity (split with space)").split()
+    pop_size, max_iter, elite_capcity = input("please input pop_size, max_iter and elite_capcity (split with space)":).split()
     start = time()
     n, J, P = encode('datasets/MK01.fjs')
     # n, J, P = encode('datasets/MK08.fjs')
@@ -82,3 +82,4 @@ if __name__ == '__main__':
     b_t, history = decode(n, J, P, b_w)[0], [Cmax] + c_h
     print(f'time={time() - start}\n{history}')
     # drawGantt(b_t)
+
